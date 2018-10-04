@@ -6323,6 +6323,49 @@ html, body {
     width: auto; } }
 
 body {
-  background: #dfdfdf; }
+  background: #431d12; }
+
+.menu1 {
+  background: #39180f; }
+  .menu1 ul li {
+    margin: 2rem 1rem;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 1.5rem;
+    padding: 0 1rem 0 0;
+    border-right: 1px solid #fff; }
+    .menu1 ul li a {
+      color: #ffffff; }
+      .menu1 ul li a:hover {
+        font-weight: bolder; }
+
+.about {
+  background: #87a984;
+  color: #ffffff; }
+  .about .title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 4rem; }
+
+.content .menu2 {
+  background: #96afac;
+  margin: 0; }
+  .content .menu2 li {
+    text-decoration: none;
+    list-style-type: none;
+    display: block;
+    padding: 1rem;
+    margin: 1rem 2rem 0 0;
+    font-size: 1rem;
+    border-bottom: 1px solid #fff; }
+    .content .menu2 li a {
+      color: #fff; }
+      .content .menu2 li a:hover {
+        font-weight: bolder; }
+
+.content .cnt {
+  background: grey; }
 
 /*# sourceMappingURL=main.css.map */
