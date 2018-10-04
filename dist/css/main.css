@@ -6325,6 +6325,13 @@ html, body {
 body {
   background: #431d12; }
 
+.logo img {
+  max-width: 10em; }
+
+.logo p {
+  margin: 0 2rem;
+  color: #fff; }
+
 .menu1 {
   background: #39180f; }
   .menu1 ul li {
